@@ -1,0 +1,10 @@
+.image-subject label {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  color: #111928;
+}
+.image-subject select {
+  height: 49px;
+  border: 2px solid #7949ff;
+}

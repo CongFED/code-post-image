@@ -1,0 +1,36 @@
+.container-upload-item .uploadItem {
+  background-color: #eef1f7;
+  width: 587px;
+  border-radius: 26px;
+  margin-top: 30px;
+}
+
+.uploadItem .info {
+  display: flex;
+  align-items: flex-end;
+  padding: 20px 0;
+}
+
+.uploadItem .info .info-icon {
+  margin-left: 100px;
+  margin-right: 20px;
+}
+
+.container-upload-item .info-detail .name-image {
+  color: #292d32;
+  font-size: 30px;
+  font-weight: 500;
+}
+
+.container-upload-item .info-detail .size-image {
+  color: #a9acb4;
+  font-size: 25px;
+  font-weight: 400;
+  margin-right: 80px;
+}
+
+.container-upload-item .info-detail .status {
+  color: #292d32;
+  font-size: 25px;
+  font-weight: 400;
+}

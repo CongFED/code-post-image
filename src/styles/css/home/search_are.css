@@ -1,0 +1,42 @@
+.container-search {
+  display: flex;
+  align-items: flex-start;
+  margin-bottom: 15px;
+}
+.container-search .calendar {
+  margin-left: 50px;
+  margin-right: 150px;
+}
+
+.container-search .wrap-btn {
+  background-color: #7949ff;
+  border-radius: 50px;
+  color: #ffffff;
+}
+
+.btn-apply {
+  font-size: 20px;
+  font-weight: 500;
+}
+.btn-content {
+  padding: 1px 27px;
+}
+
+.custom-icon {
+  font-size: 30px;
+  margin-right: 5px;
+}
+.custom-datepicker {
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+  width: 270px;
+  height: 35px;
+}
+
+.custom-calendar {
+  background-color: #f8f8f8;
+}
+.custom-datepicker {
+  color: #333;
+}

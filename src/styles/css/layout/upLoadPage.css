@@ -1,0 +1,18 @@
+.container-upload-page {
+  margin-top: 40px;
+}
+.container-upload-page .middle-row {
+  margin-left: 13px;
+}
+
+.container-upload-page .btn-upload {
+  width: 154px;
+  height: 48px;
+  background-color: #7949ff;
+  border-radius: 50px;
+  font-size: 16px;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 16px;
+  margin-left: 15px;
+}

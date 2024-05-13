@@ -1,0 +1,11 @@
+.quote-input textarea {
+  resize: none;
+  border: 2px dashed #7949ff;
+}
+
+.quote-input label {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  color: #111928;
+}
